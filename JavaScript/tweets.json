@@ -1,0 +1,253 @@
+[
+    {
+      "text": "@NotionHQ a canva integration would be amazing for the content calendar.",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/DiamondSTaylor/status/1395238778457968644"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Hi @NotionHQ is it possible to embed Google forms to a Notion doc? https://t.co/Lfltg5ycmi",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/wesdlcrz/status/1391928953883881473"
+          }
+        ]
+      }
+    },
+    {
+      "text": "@NotionHQ I'm trying to optimize my recurring meeting templates - Is there any way to embed the last entry in a template? \n\ne.g. A 'new standup entry' template would embed the most recent standup entry inside the new template for easy reference.",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/benjamincharity/status/1392473465693818885"
+          }
+        ]
+      }
+    },
+    {
+      "text": "@NotionHQ So close for me, only text type is supported for fetching page blocks, so probably will have wait till i can fetch images url.\n\nGreat work team, works like charm for me.",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/sumitmurari/status/1393036411880710145"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Why launch @NotionHQ API without image/media capability 😐",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/millgatejosh/status/1393132526101843969"
+          }
+        ]
+      }
+    },
+    {
+      "text": "@NotionHQ I tried to make a small website with notion and shared it to the web! It was so fascinating✨ until I found it too hard to embed links into the images! 🤕",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/imlaksharora/status/1394258675179524098"
+          }
+        ]
+      }
+    },
+    {
+      "text": "@RedGregory1 @NotionHQ I would add a feature request (@NotionHQ ) based on your finding @RedGregory1 - timestamp function including seconds. Especially with future automations #notionapi",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/nataschabuck/status/1390243337408557057"
+          }
+        ]
+      }
+    },
+    {
+      "text": "@NotionHQ , when are you going to integrate with @zapier ? We need that!!!",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/anderpalma/status/1389274577839198214"
+          }
+        ]
+      }
+    },
+    {
+      "text": "@NotionHQ Is there a an API that would let us export documents as markdown?\n\nAlso, do you have anything like tagging or labeling documents on your roadmap?",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/tomharrisonjr/status/1387797463390736385"
+          }
+        ]
+      }
+    },
+    {
+      "text": "@NotionHQ another quick question: is there a way to embed UML/sequence diagrams in Notion? Something like a plugin for Gliffy, or PlantUML, https://t.co/LbOZbG1xQN...anything? Thanks!!",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/unsorsodicorda/status/1388089964961927170"
+          }
+        ]
+      }
+    },
+    {
+      "text": "@NotionHQ it'd be really cool to have a vim emulator plugin and command line access to your app",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/pfelgueres/status/1388566878474313733"
+          }
+        ]
+      }
+    },
+    {
+      "text": "@NotionHQ i want to join the conversation &amp; give my vote for a native Discord integration as an alternative to Slack, thanks!",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/vieiam_/status/1388802754462765057"
+          }
+        ]
+      }
+    },
+    {
+      "text": "@NotionHQ I desperately need a @Grammarly integration so that I don't misspell the same word 10,000 times in a day. Please help keep my documentation from sounding terrible and save me from my poor spelling and grammar prowess.",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/dmitriatrash/status/1385642637450006531"
+          }
+        ]
+      }
+    },
+    {
+      "text": "I want @NotionHQ, but with AirTable forms and embedded databases.",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/_nickgurney/status/1385100841745477632"
+          }
+        ]
+      }
+    },
+    {
+      "text": "@NotionAPI are you thinking of incorporating webhooks so we can trigger actions based on notion labels? Or is that a thing that already exists?",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/grace_inspace/status/1396824055601369094"
+          }
+        ]
+      }
+    },
+    {
+      "text": "@NotionAPI any plans to add backlink creation support to the API? Still learning the ropes, so forgive me if it's already in there. Excited about what people could build with that!",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/michaelanhari/status/1394672211781423107"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Pretty disappointed in the @NotionAPI beta so far. The number of unsupported objects makes it pretty non-viable. Our test content had 14 unsupported blocks alone.\n\nI had really high hopes of making @NotionHQ the anti-CMS our team loves.",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/captainyarb/status/1394770379546169349"
+          }
+        ]
+      }
+    },
+    {
+      "text": "hey @NotionAPI . tiny improvement for /v1/search: If you omit `Content-Type: application/json`, should throw an error instead of silently ignoring the query",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/jierenchen/status/1395227376498352130"
+          }
+        ]
+      }
+    },
+    {
+      "text": "@heykatgarcia @NotionHQ @NotionAPI The ONLY thing that would be kinda nice to have is when a client books in with me, it would be handy to have that feeding into my Notion client calendar. But I have a filtered view of my calendar on a page next to an @indifyco calendar embed, so it's not something that I need!",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/TheNotionGoth/status/1395296423952924675"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Man, I would pay too much money if someone used the @NotionAPI to convert geo-coordinates from a Notion tables into a map I could embed in Notion. Airtable has a plugin for this (see photo), but I want this for my Notion data! https://t.co/f0VRNT0VdW",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/jamesoniam/status/1395301516874076161"
+          }
+        ]
+      }
+    },
+    {
+      "text": "I wish @NotionHQ @NotionAPI added a marketplace to allow people creating apps. Some ideas would be a CRM, an automation app, custom notifications, email services, graphs... and plans?",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/carlosbaraza/status/1395889148494499843"
+          }
+        ]
+      }
+    },
+    {
+      "text": "@integromat @NotionHQ @NotionAPI  really loving and waited for this integration! Although I am really missing the lack of support for files fields, is coming anytime soon?",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/victorianoi/status/1396042342063345673"
+          }
+        ]
+      }
+    },
+    {
+      "text": "@NotionHQ Any updates on Powerpoint and other Microsoft apps integration?",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/mn_hunt/status/1375129636322095109"
+          }
+        ]
+      }
+    },
+    {
+      "text": "@NotionHQ 👋 Hello guys! Is it possible to schedule and publish tweets with Notion? Any add-ons? With Zapier? #automation #zapier #notion",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/sylvainnaessens/status/1375409488509988868"
+          }
+        ]
+      }
+    },
+    {
+      "text": "@NotionHQ Is there any way having API access might make it possible to add Decades and Centuries as Timeline timescale views in addition to existing Day, Week, Month, Year?",
+      "entities": {
+        "urls": [
+          {
+            "expanded_url": "https://twitter.com/C2Pie/status/1394873641934880770"
+          }
+        ]
+      }
+    }
+  ]
+  
